@@ -1,5 +1,4 @@
 # CRUD--JAVA--MYSQL-XAMPP
-Aplicación muy sencilla, con una interfaz de usuario y que realiza una conexión con una base de datos (MYSQL), y hace uso de la información almacenada en dicha BD.
+Aplicación muy sencilla, con una interfaz de usuario y que realiza una conexión con una base de datos (MYSQL), y hace uso de la información almacenada en dicha BD. Proyecto realizado con IDE Netbeans.
 
-![imagen](https://user-images.githubusercontent.com/99100069/222726635-60b77928-8574-4fd6-8a89-9908327503b0.png)
-
+![imagen](https://user-images.githubusercontent.com/99100069/222728775-b65e3c58-0e77-4da5-9ba6-50d731bfd9fc.png)
