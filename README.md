@@ -1,4 +1,3 @@
-# CRUD--JAVA--MYSQL-XAMPP
-Aplicación muy sencilla, con una interfaz de usuario y que realiza una conexión con una base de datos (MYSQL), y hace uso de la información almacenada en dicha BD. Proyecto realizado con IDE Netbeans.
+Este repositorio contiene un CRUD básico desarrollado en Java utilizando JDBC con MySQL. El proyecto se implementó en el entorno de desarrollo XAMPP y sigue las mejores prácticas de programación orientada a objetos y patrones de diseño. Este CRUD permite realizar operaciones de creación, lectura, actualización y eliminación de registros en una base de datos, con una interfaz de usuario sencilla y fácil de usar. Este proyecto es ideal para aquellos que desean aprender los fundamentos de la programación en Java y la implementación de un CRUD muy básico."
 
 ![imagen](https://user-images.githubusercontent.com/99100069/222728775-b65e3c58-0e77-4da5-9ba6-50d731bfd9fc.png)
